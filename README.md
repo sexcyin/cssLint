@@ -1,2 +1,2 @@
-# cssLint
-cssLint学习
+# stylelint
+stylelint学习
